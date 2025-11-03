@@ -1,0 +1,1195 @@
+,city_id,city,state
+0,1,Miami,Florida
+1,2,Chicago,Illinois
+2,3,Buffalo,New York
+3,4,Miami,Florida
+4,5,Chicago,Illinois
+5,6,Buffalo,New York
+6,7,Orlando,Florida
+7,8,Miami,Florida
+8,9,Los Angeles,California
+9,10,Los Angeles,California
+10,11,New York City,New York
+11,12,New York City,New York
+12,13,Orlando,Florida
+13,14,Orlando,Florida
+14,15,Orlando,Florida
+15,16,Springfield,Illinois
+16,17,Springfield,Illinois
+17,18,Rochester,New York
+18,19,Rochester,New York
+19,20,Dallas,Texas
+20,21,San Diego,California
+21,22,San Diego,California
+22,23,San Diego,California
+23,24,Rochester,New York
+24,25,Rochester,New York
+25,26,Rochester,New York
+26,27,Austin,Texas
+27,28,New York City,New York
+28,29,San Francisco,California
+29,30,San Francisco,California
+30,31,Columbus,Ohio
+31,32,Orlando,Florida
+32,33,Orlando,Florida
+33,34,San Diego,California
+34,35,Cincinnati,Ohio
+35,36,San Diego,California
+36,37,Cincinnati,Ohio
+37,38,Orlando,Florida
+38,39,Orlando,Florida
+39,40,San Francisco,California
+40,41,San Francisco,California
+41,42,San Francisco,California
+42,43,Cleveland,Ohio
+43,44,Rochester,New York
+44,45,Los Angeles,California
+45,46,Cleveland,Ohio
+46,47,Rochester,New York
+47,48,Los Angeles,California
+48,49,San Diego,California
+49,50,Cincinnati,Ohio
+50,51,Austin,Texas
+51,52,Dallas,Texas
+52,53,San Diego,California
+53,54,Cincinnati,Ohio
+54,55,Austin,Texas
+55,56,Dallas,Texas
+56,57,Cincinnati,Ohio
+57,58,Miami,Florida
+58,59,Orlando,Florida
+59,60,Houston,Texas
+60,61,Orlando,Florida
+61,62,Houston,Texas
+62,63,Orlando,Florida
+63,64,Houston,Texas
+64,65,Buffalo,New York
+65,66,Buffalo,New York
+66,67,Buffalo,New York
+67,68,Cleveland,Ohio
+68,69,Los Angeles,California
+69,70,Cleveland,Ohio
+70,71,Los Angeles,California
+71,72,Cleveland,Ohio
+72,73,Los Angeles,California
+73,74,Cleveland,Ohio
+74,75,Los Angeles,California
+75,76,Miami,Florida
+76,77,Miami,Florida
+77,78,Tampa,Florida
+78,79,Buffalo,New York
+79,80,San Diego,California
+80,81,San Diego,California
+81,82,San Diego,California
+82,83,San Diego,California
+83,84,Buffalo,New York
+84,85,Cleveland,Ohio
+85,86,Buffalo,New York
+86,87,Cleveland,Ohio
+87,88,New York City,New York
+88,89,New York City,New York
+89,90,Springfield,Illinois
+90,91,Tampa,Florida
+91,92,Cincinnati,Ohio
+92,93,Cleveland,Ohio
+93,94,Peoria,Illinois
+94,95,Orlando,Florida
+95,96,Orlando,Florida
+96,97,Miami,Florida
+97,98,Columbus,Ohio
+98,99,Houston,Texas
+99,100,Houston,Texas
+100,101,Houston,Texas
+101,102,Los Angeles,California
+102,103,Rochester,New York
+103,104,Austin,Texas
+104,105,Dallas,Texas
+105,106,Austin,Texas
+106,107,San Diego,California
+107,108,Austin,Texas
+108,109,San Diego,California
+109,110,Austin,Texas
+110,111,San Diego,California
+111,112,Miami,Florida
+112,113,Dallas,Texas
+113,114,San Francisco,California
+114,115,Dallas,Texas
+115,116,San Francisco,California
+116,117,San Francisco,California
+117,118,New York City,New York
+118,119,San Francisco,California
+119,120,Cleveland,Ohio
+120,121,Rochester,New York
+121,122,Austin,Texas
+122,123,Rochester,New York
+123,124,Rochester,New York
+124,125,Austin,Texas
+125,126,Rochester,New York
+126,127,San Francisco,California
+127,128,Cleveland,Ohio
+128,129,San Francisco,California
+129,130,Cleveland,Ohio
+130,131,Tampa,Florida
+131,132,Tampa,Florida
+132,133,Tampa,Florida
+133,134,Tampa,Florida
+134,135,Orlando,Florida
+135,136,Orlando,Florida
+136,137,Dallas,Texas
+137,138,Dallas,Texas
+138,139,Dallas,Texas
+139,140,San Francisco,California
+140,141,Springfield,Illinois
+141,142,San Diego,California
+142,143,San Francisco,California
+143,144,Springfield,Illinois
+144,145,San Diego,California
+145,146,Los Angeles,California
+146,147,Los Angeles,California
+147,148,Los Angeles,California
+148,149,Los Angeles,California
+149,150,Springfield,Illinois
+150,151,Springfield,Illinois
+151,152,Springfield,Illinois
+152,153,Columbus,Ohio
+153,154,Chicago,Illinois
+154,155,Austin,Texas
+155,156,Chicago,Illinois
+156,157,Austin,Texas
+157,158,Chicago,Illinois
+158,159,Austin,Texas
+159,160,Chicago,Illinois
+160,161,Austin,Texas
+161,162,Austin,Texas
+162,163,Dallas,Texas
+163,164,Orlando,Florida
+164,165,Los Angeles,California
+165,166,Dallas,Texas
+166,167,Orlando,Florida
+167,168,Los Angeles,California
+168,169,Dallas,Texas
+169,170,Orlando,Florida
+170,171,Los Angeles,California
+171,172,Austin,Texas
+172,173,Cincinnati,Ohio
+173,174,Rochester,New York
+174,175,Miami,Florida
+175,176,Tampa,Florida
+176,177,Miami,Florida
+177,178,Tampa,Florida
+178,179,Buffalo,New York
+179,180,Dallas,Texas
+180,181,Dallas,Texas
+181,182,Orlando,Florida
+182,183,Orlando,Florida
+183,184,Tampa,Florida
+184,185,Tampa,Florida
+185,186,Miami,Florida
+186,187,Miami,Florida
+187,188,Chicago,Illinois
+188,189,Chicago,Illinois
+189,190,Buffalo,New York
+190,191,Orlando,Florida
+191,192,Springfield,Illinois
+192,193,Buffalo,New York
+193,194,Orlando,Florida
+194,195,Springfield,Illinois
+195,196,Los Angeles,California
+196,197,Los Angeles,California
+197,198,Cleveland,Ohio
+198,199,Peoria,Illinois
+199,200,Peoria,Illinois
+200,201,Houston,Texas
+201,202,Chicago,Illinois
+202,203,San Francisco,California
+203,204,Houston,Texas
+204,205,Chicago,Illinois
+205,206,San Francisco,California
+206,207,Houston,Texas
+207,208,Chicago,Illinois
+208,209,San Francisco,California
+209,210,Houston,Texas
+210,211,Chicago,Illinois
+211,212,San Francisco,California
+212,213,Miami,Florida
+213,214,Springfield,Illinois
+214,215,Springfield,Illinois
+215,216,Miami,Florida
+216,217,Tampa,Florida
+217,218,San Francisco,California
+218,219,Chicago,Illinois
+219,220,Peoria,Illinois
+220,221,Buffalo,New York
+221,222,San Francisco,California
+222,223,Peoria,Illinois
+223,224,Cleveland,Ohio
+224,225,Cleveland,Ohio
+225,226,Cleveland,Ohio
+226,227,Peoria,Illinois
+227,228,Springfield,Illinois
+228,229,Springfield,Illinois
+229,230,Miami,Florida
+230,231,Dallas,Texas
+231,232,Miami,Florida
+232,233,Dallas,Texas
+233,234,Houston,Texas
+234,235,Houston,Texas
+235,236,Houston,Texas
+236,237,San Francisco,California
+237,238,Buffalo,New York
+238,239,Rochester,New York
+239,240,Rochester,New York
+240,241,Rochester,New York
+241,242,Rochester,New York
+242,243,Los Angeles,California
+243,244,Los Angeles,California
+244,245,New York City,New York
+245,246,Orlando,Florida
+246,247,Cleveland,Ohio
+247,248,Buffalo,New York
+248,249,Orlando,Florida
+249,250,Cleveland,Ohio
+250,251,Buffalo,New York
+251,252,Orlando,Florida
+252,253,Houston,Texas
+253,254,Houston,Texas
+254,255,Dallas,Texas
+255,256,Buffalo,New York
+256,257,Buffalo,New York
+257,258,Dallas,Texas
+258,259,Miami,Florida
+259,260,Buffalo,New York
+260,261,Cincinnati,Ohio
+261,262,Buffalo,New York
+262,263,Cincinnati,Ohio
+263,264,New York City,New York
+264,265,Columbus,Ohio
+265,266,Columbus,Ohio
+266,267,Buffalo,New York
+267,268,Tampa,Florida
+268,269,Buffalo,New York
+269,270,Tampa,Florida
+270,271,Buffalo,New York
+271,272,Tampa,Florida
+272,273,Peoria,Illinois
+273,274,New York City,New York
+274,275,New York City,New York
+275,276,San Francisco,California
+276,277,Dallas,Texas
+277,278,Dallas,Texas
+278,279,Cleveland,Ohio
+279,280,Columbus,Ohio
+280,281,Columbus,Ohio
+281,282,Orlando,Florida
+282,283,Orlando,Florida
+283,284,San Francisco,California
+284,285,San Francisco,California
+285,286,Cincinnati,Ohio
+286,287,Cincinnati,Ohio
+287,288,Cincinnati,Ohio
+288,289,Cleveland,Ohio
+289,290,Rochester,New York
+290,291,Cleveland,Ohio
+291,292,Rochester,New York
+292,293,Columbus,Ohio
+293,294,Houston,Texas
+294,295,Columbus,Ohio
+295,296,Houston,Texas
+296,297,New York City,New York
+297,298,Cleveland,Ohio
+298,299,New York City,New York
+299,300,Cleveland,Ohio
+300,301,Chicago,Illinois
+301,302,Chicago,Illinois
+302,303,Rochester,New York
+303,304,Springfield,Illinois
+304,305,Rochester,New York
+305,306,Springfield,Illinois
+306,307,Rochester,New York
+307,308,San Diego,California
+308,309,Peoria,Illinois
+309,310,Orlando,Florida
+310,311,Austin,Texas
+311,312,Austin,Texas
+312,313,Austin,Texas
+313,314,Chicago,Illinois
+314,315,Buffalo,New York
+315,316,Chicago,Illinois
+316,317,Buffalo,New York
+317,318,New York City,New York
+318,319,Cincinnati,Ohio
+319,320,Cincinnati,Ohio
+320,321,Cincinnati,Ohio
+321,322,Austin,Texas
+322,323,Austin,Texas
+323,324,Los Angeles,California
+324,325,Chicago,Illinois
+325,326,Dallas,Texas
+326,327,Dallas,Texas
+327,328,Miami,Florida
+328,329,Miami,Florida
+329,330,Miami,Florida
+330,331,Miami,Florida
+331,332,Houston,Texas
+332,333,Dallas,Texas
+333,334,Cleveland,Ohio
+334,335,Orlando,Florida
+335,336,Chicago,Illinois
+336,337,Buffalo,New York
+337,338,Buffalo,New York
+338,339,Buffalo,New York
+339,340,San Diego,California
+340,341,San Diego,California
+341,342,San Diego,California
+342,343,Columbus,Ohio
+343,344,Rochester,New York
+344,345,Cleveland,Ohio
+345,346,Austin,Texas
+346,347,Austin,Texas
+347,348,Columbus,Ohio
+348,349,San Diego,California
+349,350,San Diego,California
+350,351,San Diego,California
+351,352,Buffalo,New York
+352,353,Rochester,New York
+353,354,Rochester,New York
+354,355,Austin,Texas
+355,356,Cincinnati,Ohio
+356,357,Dallas,Texas
+357,358,Austin,Texas
+358,359,Cincinnati,Ohio
+359,360,Dallas,Texas
+360,361,Austin,Texas
+361,362,Cincinnati,Ohio
+362,363,Dallas,Texas
+363,364,Austin,Texas
+364,365,Cincinnati,Ohio
+365,366,Dallas,Texas
+366,367,Chicago,Illinois
+367,368,Orlando,Florida
+368,369,Orlando,Florida
+369,370,Orlando,Florida
+370,371,Orlando,Florida
+371,372,Orlando,Florida
+372,373,Orlando,Florida
+373,374,Orlando,Florida
+374,375,Cincinnati,Ohio
+375,376,Cincinnati,Ohio
+376,377,Dallas,Texas
+377,378,Tampa,Florida
+378,379,Springfield,Illinois
+379,380,Springfield,Illinois
+380,381,Peoria,Illinois
+381,382,Dallas,Texas
+382,383,Austin,Texas
+383,384,Dallas,Texas
+384,385,Cincinnati,Ohio
+385,386,Springfield,Illinois
+386,387,Rochester,New York
+387,388,Rochester,New York
+388,389,Dallas,Texas
+389,390,Chicago,Illinois
+390,391,Chicago,Illinois
+391,392,Chicago,Illinois
+392,393,Chicago,Illinois
+393,394,Buffalo,New York
+394,395,San Francisco,California
+395,396,Springfield,Illinois
+396,397,Orlando,Florida
+397,398,Cleveland,Ohio
+398,399,Los Angeles,California
+399,400,Houston,Texas
+400,401,Springfield,Illinois
+401,402,Springfield,Illinois
+402,403,Tampa,Florida
+403,404,Cleveland,Ohio
+404,405,Cleveland,Ohio
+405,406,Cleveland,Ohio
+406,407,Chicago,Illinois
+407,408,Buffalo,New York
+408,409,Columbus,Ohio
+409,410,Miami,Florida
+410,411,Dallas,Texas
+411,412,Orlando,Florida
+412,413,Cincinnati,Ohio
+413,414,Cincinnati,Ohio
+414,415,Cincinnati,Ohio
+415,416,San Francisco,California
+416,417,Rochester,New York
+417,418,New York City,New York
+418,419,San Francisco,California
+419,420,Orlando,Florida
+420,421,Austin,Texas
+421,422,Los Angeles,California
+422,423,Austin,Texas
+423,424,Los Angeles,California
+424,425,Peoria,Illinois
+425,426,Cleveland,Ohio
+426,427,Springfield,Illinois
+427,428,San Diego,California
+428,429,San Diego,California
+429,430,Buffalo,New York
+430,431,Buffalo,New York
+431,432,Peoria,Illinois
+432,433,Peoria,Illinois
+433,434,Buffalo,New York
+434,435,Buffalo,New York
+435,436,Buffalo,New York
+436,437,Cincinnati,Ohio
+437,438,Peoria,Illinois
+438,439,Buffalo,New York
+439,440,Peoria,Illinois
+440,441,Buffalo,New York
+441,442,Peoria,Illinois
+442,443,Buffalo,New York
+443,444,San Francisco,California
+444,445,San Francisco,California
+445,446,San Francisco,California
+446,447,San Francisco,California
+447,448,San Francisco,California
+448,449,San Francisco,California
+449,450,San Francisco,California
+450,451,San Francisco,California
+451,452,San Francisco,California
+452,453,Rochester,New York
+453,454,Miami,Florida
+454,455,Columbus,Ohio
+455,456,San Francisco,California
+456,457,Columbus,Ohio
+457,458,San Francisco,California
+458,459,Columbus,Ohio
+459,460,San Francisco,California
+460,461,Cincinnati,Ohio
+461,462,Miami,Florida
+462,463,Miami,Florida
+463,464,Miami,Florida
+464,465,Chicago,Illinois
+465,466,Houston,Texas
+466,467,Miami,Florida
+467,468,Chicago,Illinois
+468,469,Houston,Texas
+469,470,Miami,Florida
+470,471,Dallas,Texas
+471,472,Houston,Texas
+472,473,Orlando,Florida
+473,474,Orlando,Florida
+474,475,San Diego,California
+475,476,Cleveland,Ohio
+476,477,Tampa,Florida
+477,478,Dallas,Texas
+478,479,Tampa,Florida
+479,480,Dallas,Texas
+480,481,Rochester,New York
+481,482,Rochester,New York
+482,483,Austin,Texas
+483,484,Springfield,Illinois
+484,485,San Diego,California
+485,486,San Diego,California
+486,487,San Diego,California
+487,488,Houston,Texas
+488,489,Buffalo,New York
+489,490,Buffalo,New York
+490,491,San Diego,California
+491,492,San Francisco,California
+492,493,San Diego,California
+493,494,San Francisco,California
+494,495,San Diego,California
+495,496,Orlando,Florida
+496,497,San Francisco,California
+497,498,San Diego,California
+498,499,Orlando,Florida
+499,500,San Francisco,California
+500,501,Springfield,Illinois
+501,502,Springfield,Illinois
+502,503,Springfield,Illinois
+503,504,Tampa,Florida
+504,505,Peoria,Illinois
+505,506,Miami,Florida
+506,507,Houston,Texas
+507,508,Tampa,Florida
+508,509,Peoria,Illinois
+509,510,Miami,Florida
+510,511,Houston,Texas
+511,512,Buffalo,New York
+512,513,Orlando,Florida
+513,514,Tampa,Florida
+514,515,Austin,Texas
+515,516,Austin,Texas
+516,517,Austin,Texas
+517,518,Austin,Texas
+518,519,Peoria,Illinois
+519,520,Miami,Florida
+520,521,Miami,Florida
+521,522,Houston,Texas
+522,523,Peoria,Illinois
+523,524,Rochester,New York
+524,525,San Diego,California
+525,526,Peoria,Illinois
+526,527,Rochester,New York
+527,528,San Diego,California
+528,529,Columbus,Ohio
+529,530,Columbus,Ohio
+530,531,Columbus,Ohio
+531,532,Miami,Florida
+532,533,Buffalo,New York
+533,534,Houston,Texas
+534,535,Buffalo,New York
+535,536,Houston,Texas
+536,537,Los Angeles,California
+537,538,Los Angeles,California
+538,539,Los Angeles,California
+539,540,Cincinnati,Ohio
+540,541,Rochester,New York
+541,542,Peoria,Illinois
+542,543,Rochester,New York
+543,544,Tampa,Florida
+544,545,Houston,Texas
+545,546,Los Angeles,California
+546,547,Chicago,Illinois
+547,548,Los Angeles,California
+548,549,Chicago,Illinois
+549,550,New York City,New York
+550,551,New York City,New York
+551,552,Springfield,Illinois
+552,553,Los Angeles,California
+553,554,Chicago,Illinois
+554,555,Rochester,New York
+555,556,Houston,Texas
+556,557,San Francisco,California
+557,558,Buffalo,New York
+558,559,Cleveland,Ohio
+559,560,San Francisco,California
+560,561,Buffalo,New York
+561,562,Cleveland,Ohio
+562,563,Los Angeles,California
+563,564,Miami,Florida
+564,565,Los Angeles,California
+565,566,Springfield,Illinois
+566,567,San Francisco,California
+567,568,Springfield,Illinois
+568,569,San Francisco,California
+569,570,Springfield,Illinois
+570,571,San Francisco,California
+571,572,Austin,Texas
+572,573,Chicago,Illinois
+573,574,Austin,Texas
+574,575,Chicago,Illinois
+575,576,Orlando,Florida
+576,577,Houston,Texas
+577,578,San Francisco,California
+578,579,San Francisco,California
+579,580,San Francisco,California
+580,581,San Francisco,California
+581,582,San Francisco,California
+582,583,San Diego,California
+583,584,San Francisco,California
+584,585,San Diego,California
+585,586,Columbus,Ohio
+586,587,Cincinnati,Ohio
+587,588,Cincinnati,Ohio
+588,589,Cincinnati,Ohio
+589,590,Dallas,Texas
+590,591,Tampa,Florida
+591,592,Springfield,Illinois
+592,593,Tampa,Florida
+593,594,Austin,Texas
+594,595,Springfield,Illinois
+595,596,New York City,New York
+596,597,Chicago,Illinois
+597,598,Buffalo,New York
+598,599,San Diego,California
+599,600,Dallas,Texas
+600,601,Springfield,Illinois
+601,602,Chicago,Illinois
+602,603,Springfield,Illinois
+603,604,Chicago,Illinois
+604,605,Miami,Florida
+605,606,Miami,Florida
+606,607,Dallas,Texas
+607,608,Dallas,Texas
+608,609,San Diego,California
+609,610,Springfield,Illinois
+610,611,Buffalo,New York
+611,612,New York City,New York
+612,613,New York City,New York
+613,614,Cincinnati,Ohio
+614,615,Miami,Florida
+615,616,Tampa,Florida
+616,617,Los Angeles,California
+617,618,Cleveland,Ohio
+618,619,San Diego,California
+619,620,Cleveland,Ohio
+620,621,San Diego,California
+621,622,Tampa,Florida
+622,623,Dallas,Texas
+623,624,Springfield,Illinois
+624,625,Orlando,Florida
+625,626,Los Angeles,California
+626,627,Tampa,Florida
+627,628,Los Angeles,California
+628,629,Columbus,Ohio
+629,630,Springfield,Illinois
+630,631,Dallas,Texas
+631,632,Cincinnati,Ohio
+632,633,Dallas,Texas
+633,634,Cincinnati,Ohio
+634,635,Miami,Florida
+635,636,Houston,Texas
+636,637,Houston,Texas
+637,638,Los Angeles,California
+638,639,Los Angeles,California
+639,640,San Diego,California
+640,641,San Diego,California
+641,642,New York City,New York
+642,643,Orlando,Florida
+643,644,Orlando,Florida
+644,645,Buffalo,New York
+645,646,Buffalo,New York
+646,647,Rochester,New York
+647,648,Buffalo,New York
+648,649,Rochester,New York
+649,650,Peoria,Illinois
+650,651,Austin,Texas
+651,652,Los Angeles,California
+652,653,Miami,Florida
+653,654,Cleveland,Ohio
+654,655,San Diego,California
+655,656,San Diego,California
+656,657,Austin,Texas
+657,658,Tampa,Florida
+658,659,Tampa,Florida
+659,660,Springfield,Illinois
+660,661,Tampa,Florida
+661,662,Chicago,Illinois
+662,663,Austin,Texas
+663,664,New York City,New York
+664,665,New York City,New York
+665,666,Columbus,Ohio
+666,667,Peoria,Illinois
+667,668,Columbus,Ohio
+668,669,Peoria,Illinois
+669,670,Dallas,Texas
+670,671,Houston,Texas
+671,672,New York City,New York
+672,673,Dallas,Texas
+673,674,Houston,Texas
+674,675,New York City,New York
+675,676,Tampa,Florida
+676,677,Tampa,Florida
+677,678,Orlando,Florida
+678,679,Orlando,Florida
+679,680,Orlando,Florida
+680,681,New York City,New York
+681,682,New York City,New York
+682,683,Dallas,Texas
+683,684,Dallas,Texas
+684,685,Orlando,Florida
+685,686,Austin,Texas
+686,687,Cleveland,Ohio
+687,688,Tampa,Florida
+688,689,Cleveland,Ohio
+689,690,Tampa,Florida
+690,691,Cleveland,Ohio
+691,692,Tampa,Florida
+692,693,Cleveland,Ohio
+693,694,Tampa,Florida
+694,695,Rochester,New York
+695,696,Buffalo,New York
+696,697,Austin,Texas
+697,698,San Diego,California
+698,699,Los Angeles,California
+699,700,New York City,New York
+700,701,Buffalo,New York
+701,702,San Francisco,California
+702,703,Buffalo,New York
+703,704,San Francisco,California
+704,705,Buffalo,New York
+705,706,Buffalo,New York
+706,707,Buffalo,New York
+707,708,Peoria,Illinois
+708,709,Columbus,Ohio
+709,710,Dallas,Texas
+710,711,Tampa,Florida
+711,712,Rochester,New York
+712,713,Rochester,New York
+713,714,Rochester,New York
+714,715,Peoria,Illinois
+715,716,Rochester,New York
+716,717,Peoria,Illinois
+717,718,Los Angeles,California
+718,719,Orlando,Florida
+719,720,Austin,Texas
+720,721,New York City,New York
+721,722,New York City,New York
+722,723,Columbus,Ohio
+723,724,San Francisco,California
+724,725,Tampa,Florida
+725,726,Cincinnati,Ohio
+726,727,Dallas,Texas
+727,728,Cincinnati,Ohio
+728,729,Rochester,New York
+729,730,Cincinnati,Ohio
+730,731,Dallas,Texas
+731,732,Cincinnati,Ohio
+732,733,Rochester,New York
+733,734,Chicago,Illinois
+734,735,Chicago,Illinois
+735,736,Chicago,Illinois
+736,737,Austin,Texas
+737,738,Tampa,Florida
+738,739,Orlando,Florida
+739,740,Miami,Florida
+740,741,Miami,Florida
+741,742,Miami,Florida
+742,743,Miami,Florida
+743,744,Cleveland,Ohio
+744,745,Miami,Florida
+745,746,Buffalo,New York
+746,747,New York City,New York
+747,748,Orlando,Florida
+748,749,Rochester,New York
+749,750,Cleveland,Ohio
+750,751,Miami,Florida
+751,752,Buffalo,New York
+752,753,New York City,New York
+753,754,Orlando,Florida
+754,755,Rochester,New York
+755,756,Chicago,Illinois
+756,757,Rochester,New York
+757,758,Chicago,Illinois
+758,759,Rochester,New York
+759,760,San Francisco,California
+760,761,Cleveland,Ohio
+761,762,Houston,Texas
+762,763,Rochester,New York
+763,764,New York City,New York
+764,765,New York City,New York
+765,766,Cincinnati,Ohio
+766,767,Buffalo,New York
+767,768,Cincinnati,Ohio
+768,769,Los Angeles,California
+769,770,New York City,New York
+770,771,Columbus,Ohio
+771,772,San Diego,California
+772,773,Chicago,Illinois
+773,774,Chicago,Illinois
+774,775,Springfield,Illinois
+775,776,Los Angeles,California
+776,777,Austin,Texas
+777,778,Chicago,Illinois
+778,779,Chicago,Illinois
+779,780,Dallas,Texas
+780,781,Rochester,New York
+781,782,Cleveland,Ohio
+782,783,San Diego,California
+783,784,New York City,New York
+784,785,Miami,Florida
+785,786,Columbus,Ohio
+786,787,Dallas,Texas
+787,788,Springfield,Illinois
+788,789,Peoria,Illinois
+789,790,Austin,Texas
+790,791,San Francisco,California
+791,792,Buffalo,New York
+792,793,Rochester,New York
+793,794,Buffalo,New York
+794,795,Rochester,New York
+795,796,San Francisco,California
+796,797,Cleveland,Ohio
+797,798,Austin,Texas
+798,799,Peoria,Illinois
+799,800,Cleveland,Ohio
+800,801,Peoria,Illinois
+801,802,Peoria,Illinois
+802,803,Orlando,Florida
+803,804,Miami,Florida
+804,805,Rochester,New York
+805,806,Rochester,New York
+806,807,Rochester,New York
+807,808,New York City,New York
+808,809,San Diego,California
+809,810,Austin,Texas
+810,811,San Francisco,California
+811,812,Cincinnati,Ohio
+812,813,Houston,Texas
+813,814,Los Angeles,California
+814,815,Springfield,Illinois
+815,816,Los Angeles,California
+816,817,Rochester,New York
+817,818,San Diego,California
+818,819,Tampa,Florida
+819,820,Rochester,New York
+820,821,San Diego,California
+821,822,Tampa,Florida
+822,823,San Francisco,California
+823,824,San Francisco,California
+824,825,San Francisco,California
+825,826,San Diego,California
+826,827,Miami,Florida
+827,828,Peoria,Illinois
+828,829,Los Angeles,California
+829,830,Springfield,Illinois
+830,831,Houston,Texas
+831,832,Tampa,Florida
+832,833,San Francisco,California
+833,834,Chicago,Illinois
+834,835,Rochester,New York
+835,836,Tampa,Florida
+836,837,New York City,New York
+837,838,Buffalo,New York
+838,839,Cleveland,Ohio
+839,840,Chicago,Illinois
+840,841,Tampa,Florida
+841,842,Tampa,Florida
+842,843,Orlando,Florida
+843,844,Orlando,Florida
+844,845,Orlando,Florida
+845,846,Orlando,Florida
+846,847,San Francisco,California
+847,848,New York City,New York
+848,849,Los Angeles,California
+849,850,Cleveland,Ohio
+850,851,Columbus,Ohio
+851,852,Cleveland,Ohio
+852,853,Columbus,Ohio
+853,854,Dallas,Texas
+854,855,San Diego,California
+855,856,Buffalo,New York
+856,857,Buffalo,New York
+857,858,Orlando,Florida
+858,859,Buffalo,New York
+859,860,Cleveland,Ohio
+860,861,Buffalo,New York
+861,862,Cleveland,Ohio
+862,863,Miami,Florida
+863,864,Austin,Texas
+864,865,Austin,Texas
+865,866,Buffalo,New York
+866,867,Columbus,Ohio
+867,868,Austin,Texas
+868,869,Austin,Texas
+869,870,Cleveland,Ohio
+870,871,Los Angeles,California
+871,872,Rochester,New York
+872,873,Cleveland,Ohio
+873,874,Los Angeles,California
+874,875,Rochester,New York
+875,876,Dallas,Texas
+876,877,Miami,Florida
+877,878,Dallas,Texas
+878,879,Orlando,Florida
+879,880,Chicago,Illinois
+880,881,Orlando,Florida
+881,882,Chicago,Illinois
+882,883,Rochester,New York
+883,884,San Diego,California
+884,885,San Francisco,California
+885,886,Houston,Texas
+886,887,Los Angeles,California
+887,888,Peoria,Illinois
+888,889,New York City,New York
+889,890,Springfield,Illinois
+890,891,Rochester,New York
+891,892,New York City,New York
+892,893,Orlando,Florida
+893,894,New York City,New York
+894,895,Orlando,Florida
+895,896,New York City,New York
+896,897,Orlando,Florida
+897,898,New York City,New York
+898,899,Cincinnati,Ohio
+899,900,Columbus,Ohio
+900,901,Columbus,Ohio
+901,902,Columbus,Ohio
+902,903,Orlando,Florida
+903,904,San Francisco,California
+904,905,Columbus,Ohio
+905,906,Orlando,Florida
+906,907,San Francisco,California
+907,908,Springfield,Illinois
+908,909,Springfield,Illinois
+909,910,Cleveland,Ohio
+910,911,Columbus,Ohio
+911,912,Columbus,Ohio
+912,913,San Diego,California
+913,914,Tampa,Florida
+914,915,Rochester,New York
+915,916,Tampa,Florida
+916,917,Dallas,Texas
+917,918,Dallas,Texas
+918,919,San Diego,California
+919,920,Cincinnati,Ohio
+920,921,Los Angeles,California
+921,922,Houston,Texas
+922,923,Houston,Texas
+923,924,Springfield,Illinois
+924,925,Austin,Texas
+925,926,Austin,Texas
+926,927,Columbus,Ohio
+927,928,New York City,New York
+928,929,Rochester,New York
+929,930,Rochester,New York
+930,931,Springfield,Illinois
+931,932,Dallas,Texas
+932,933,Buffalo,New York
+933,934,Chicago,Illinois
+934,935,Miami,Florida
+935,936,Peoria,Illinois
+936,937,Buffalo,New York
+937,938,Columbus,Ohio
+938,939,Peoria,Illinois
+939,940,Buffalo,New York
+940,941,Columbus,Ohio
+941,942,Miami,Florida
+942,943,Miami,Florida
+943,944,Miami,Florida
+944,945,Springfield,Illinois
+945,946,Springfield,Illinois
+946,947,San Diego,California
+947,948,Springfield,Illinois
+948,949,Springfield,Illinois
+949,950,San Diego,California
+950,951,Austin,Texas
+951,952,Los Angeles,California
+952,953,Cincinnati,Ohio
+953,954,Houston,Texas
+954,955,San Francisco,California
+955,956,New York City,New York
+956,957,Springfield,Illinois
+957,958,New York City,New York
+958,959,Springfield,Illinois
+959,960,Springfield,Illinois
+960,961,Buffalo,New York
+961,962,Buffalo,New York
+962,963,Austin,Texas
+963,964,New York City,New York
+964,965,Houston,Texas
+965,966,Buffalo,New York
+966,967,Rochester,New York
+967,968,Buffalo,New York
+968,969,Rochester,New York
+969,970,Buffalo,New York
+970,971,Rochester,New York
+971,972,New York City,New York
+972,973,San Diego,California
+973,974,Houston,Texas
+974,975,Chicago,Illinois
+975,976,Springfield,Illinois
+976,977,Tampa,Florida
+977,978,Buffalo,New York
+978,979,Miami,Florida
+979,980,Austin,Texas
+980,981,Cincinnati,Ohio
+981,982,San Francisco,California
+982,983,San Francisco,California
+983,984,Springfield,Illinois
+984,985,Buffalo,New York
+985,986,Columbus,Ohio
+986,987,Chicago,Illinois
+987,988,Los Angeles,California
+988,989,Springfield,Illinois
+989,990,Buffalo,New York
+990,991,Columbus,Ohio
+991,992,Chicago,Illinois
+992,993,Los Angeles,California
+993,994,Tampa,Florida
+994,995,Cincinnati,Ohio
+995,996,Cleveland,Ohio
+996,997,Chicago,Illinois
+997,998,Cincinnati,Ohio
+998,999,Cleveland,Ohio
+999,1000,Chicago,Illinois
+1000,1001,Cincinnati,Ohio
+1001,1002,Cleveland,Ohio
+1002,1003,Chicago,Illinois
+1003,1004,San Diego,California
+1004,1005,Miami,Florida
+1005,1006,Cleveland,Ohio
+1006,1007,Tampa,Florida
+1007,1008,San Diego,California
+1008,1009,New York City,New York
+1009,1010,Miami,Florida
+1010,1011,Miami,Florida
+1011,1012,Columbus,Ohio
+1012,1013,Cleveland,Ohio
+1013,1014,Orlando,Florida
+1014,1015,Springfield,Illinois
+1015,1016,Cincinnati,Ohio
+1016,1017,Cleveland,Ohio
+1017,1018,Peoria,Illinois
+1018,1019,Tampa,Florida
+1019,1020,Tampa,Florida
+1020,1021,Tampa,Florida
+1021,1022,San Francisco,California
+1022,1023,Cincinnati,Ohio
+1023,1024,San Diego,California
+1024,1025,Cincinnati,Ohio
+1025,1026,San Diego,California
+1026,1027,Peoria,Illinois
+1027,1028,Buffalo,New York
+1028,1029,Orlando,Florida
+1029,1030,Buffalo,New York
+1030,1031,Cleveland,Ohio
+1031,1032,Austin,Texas
+1032,1033,Peoria,Illinois
+1033,1034,Dallas,Texas
+1034,1035,Dallas,Texas
+1035,1036,Tampa,Florida
+1036,1037,Orlando,Florida
+1037,1038,Miami,Florida
+1038,1039,San Francisco,California
+1039,1040,Columbus,Ohio
+1040,1041,San Francisco,California
+1041,1042,Columbus,Ohio
+1042,1043,Houston,Texas
+1043,1044,San Diego,California
+1044,1045,Los Angeles,California
+1045,1046,Cincinnati,Ohio
+1046,1047,Peoria,Illinois
+1047,1048,Chicago,Illinois
+1048,1049,New York City,New York
+1049,1050,Dallas,Texas
+1050,1051,Springfield,Illinois
+1051,1052,Dallas,Texas
+1052,1053,Springfield,Illinois
+1053,1054,Miami,Florida
+1054,1055,Peoria,Illinois
+1055,1056,Los Angeles,California
+1056,1057,Miami,Florida
+1057,1058,Rochester,New York
+1058,1059,Houston,Texas
+1059,1060,Houston,Texas
+1060,1061,Peoria,Illinois
+1061,1062,Cincinnati,Ohio
+1062,1063,Cleveland,Ohio
+1063,1064,Springfield,Illinois
+1064,1065,Cleveland,Ohio
+1065,1066,Orlando,Florida
+1066,1067,Houston,Texas
+1067,1068,Columbus,Ohio
+1068,1069,San Diego,California
+1069,1070,Springfield,Illinois
+1070,1071,Cincinnati,Ohio
+1071,1072,San Francisco,California
+1072,1073,Los Angeles,California
+1073,1074,New York City,New York
+1074,1075,Columbus,Ohio
+1075,1076,Miami,Florida
+1076,1077,New York City,New York
+1077,1078,Dallas,Texas
+1078,1079,Rochester,New York
+1079,1080,Peoria,Illinois
+1080,1081,New York City,New York
+1081,1082,Rochester,New York
+1082,1083,San Francisco,California
+1083,1084,Dallas,Texas
+1084,1085,Cleveland,Ohio
+1085,1086,Tampa,Florida
+1086,1087,New York City,New York
+1087,1088,New York City,New York
+1088,1089,Buffalo,New York
+1089,1090,Dallas,Texas
+1090,1091,Springfield,Illinois
+1091,1092,Columbus,Ohio
+1092,1093,Cincinnati,Ohio
+1093,1094,Cincinnati,Ohio
+1094,1095,Los Angeles,California
+1095,1096,Orlando,Florida
+1096,1097,Miami,Florida
+1097,1098,San Francisco,California
+1098,1099,Buffalo,New York
+1099,1100,Austin,Texas
+1100,1101,San Francisco,California
+1101,1102,Peoria,Illinois
+1102,1103,Peoria,Illinois
+1103,1104,Peoria,Illinois
+1104,1105,New York City,New York
+1105,1106,Rochester,New York
+1106,1107,Dallas,Texas
+1107,1108,Buffalo,New York
+1108,1109,Peoria,Illinois
+1109,1110,Cleveland,Ohio
+1110,1111,Austin,Texas
+1111,1112,Columbus,Ohio
+1112,1113,Springfield,Illinois
+1113,1114,Miami,Florida
+1114,1115,Peoria,Illinois
+1115,1116,Springfield,Illinois
+1116,1117,Los Angeles,California
+1117,1118,San Diego,California
+1118,1119,San Francisco,California
+1119,1120,San Francisco,California
+1120,1121,San Diego,California
+1121,1122,Dallas,Texas
+1122,1123,Columbus,Ohio
+1123,1124,Los Angeles,California
+1124,1125,Los Angeles,California
+1125,1126,Cleveland,Ohio
+1126,1127,Dallas,Texas
+1127,1128,Austin,Texas
+1128,1129,San Francisco,California
+1129,1130,San Francisco,California
+1130,1131,Buffalo,New York
+1131,1132,Cincinnati,Ohio
+1132,1133,Houston,Texas
+1133,1134,Buffalo,New York
+1134,1135,Peoria,Illinois
+1135,1136,Austin,Texas
+1136,1137,Miami,Florida
+1137,1138,San Diego,California
+1138,1139,Houston,Texas
+1139,1140,Cincinnati,Ohio
+1140,1141,Dallas,Texas
+1141,1142,Columbus,Ohio
+1142,1143,New York City,New York
+1143,1144,Springfield,Illinois
+1144,1145,Buffalo,New York
+1145,1146,Buffalo,New York
+1146,1147,Tampa,Florida
+1147,1148,San Diego,California
+1148,1149,Cleveland,Ohio
+1149,1150,Chicago,Illinois
+1150,1151,Chicago,Illinois
+1151,1152,Dallas,Texas
+1152,1153,San Diego,California
+1153,1154,Cincinnati,Ohio
+1154,1155,Houston,Texas
+1155,1156,Cincinnati,Ohio
+1156,1157,Buffalo,New York
+1157,1158,Cincinnati,Ohio
+1158,1159,Springfield,Illinois
+1159,1160,Dallas,Texas
+1160,1161,Houston,Texas
+1161,1162,Cleveland,Ohio
+1162,1163,Cleveland,Ohio
+1163,1164,New York City,New York
+1164,1165,Chicago,Illinois
+1165,1166,New York City,New York
+1166,1167,Orlando,Florida
+1167,1168,San Diego,California
+1168,1169,Orlando,Florida
+1169,1170,San Diego,California
+1170,1171,Tampa,Florida
+1171,1172,Chicago,Illinois
+1172,1173,Austin,Texas
+1173,1174,New York City,New York
+1174,1175,Buffalo,New York
+1175,1176,Dallas,Texas
+1176,1177,New York City,New York
+1177,1178,Los Angeles,California
+1178,1179,Miami,Florida
+1179,1180,San Francisco,California
+1180,1181,Dallas,Texas
+1181,1182,Peoria,Illinois
+1182,1183,Cleveland,Ohio
+1183,1184,Peoria,Illinois
+1184,1185,Orlando,Florida
+1185,1186,Chicago,Illinois
+1186,1187,San Francisco,California
+1187,1188,San Diego,California
+1188,1189,Austin,Texas
+1189,1190,New York City,New York
+1190,1191,Rochester,New York
+1191,1192,Austin,Texas
+1192,1193,Buffalo,New York
+1193,1194,Chicago,Illinois
